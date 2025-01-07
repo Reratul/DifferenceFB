@@ -1,5 +1,5 @@
-  ##🚀Forward Difference
+## **🚀 Forward Difference**
 
-##Backward Difference
+## **Backward Difference**
 
-##Pascal Triangle
+## **Pascal Triangle**
